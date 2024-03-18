@@ -3,7 +3,7 @@ Dashboard Link:-https://public.tableau.com/app/profile/khushi.sharma7430/viz/Dat
 # Data-Science-Jobs-Dashboard
 
 # Overview
-This repository contains a Data Science Job Dashboard created to help individuals explore and analyze data science job opportunities. The dashboard consolidates information from various job boards and provides insights into the current trends in salaries required in the data science job market.
+This repository contains a Data Science Job Dashboard and Salary Prediction Model created to help individuals explore and analyze data science job opportunities. The dashboard consolidates information from various job boards and provides insights into the current trends in salaries required in the data science job market.
 
 # Features
 Job Listings: View the latest data science job listings from multiple sources in one centralized dashboard.
